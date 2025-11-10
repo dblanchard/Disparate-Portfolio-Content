@@ -1,0 +1,24 @@
+AI
+├── Generative AI
+│   ├── LLMs (ChatGPT)
+│   ├── Image Generators (Midjourney)
+│   ├── Video Generators (Sora)
+│   ├── Audio Generators (Suno)
+│   └── Code Models (Copilot)
+│
+├── Agentic AI
+│   ├── Task Agents (AutoGPT)
+│   ├── Workflow Agents (Copilot Studio)
+│   └── Tool-Using Agents (Devin)
+│
+├── Machine Learning
+│   ├── Traditional ML (recommendations)
+│   ├── Anomaly Detection (fraud scoring)
+│   ├── Sentiment Analysis (Brandwatch)
+│   ├── Identity Resolution (LiveRamp)
+│   ├── Computer Vision (iPhone FaceID)
+│   └── Speech Recognition (Alexa)
+│
+└── Artificial General Intelligence
+    └── Cultural examples only (Jarvis)
+
